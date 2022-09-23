@@ -1,33 +1,37 @@
 body {
-  background-color: rgb(60, 69, 139);
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(60, 69, 139);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-  background-color: #181a58;
-  padding: 16px 24px;
-  text-align: center;
+    background-color: #181a58;
+    padding: 16px 24px;
+    text-align: center;
 }
 
 #logo {
-  height: 80px;
+    height: 80px;
 }
 
 h1 {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .content {
-  color: #fff;
-  text-align: center;
+    color: #fff;
+    text-align: center;
 }
 
 .content img {
-  margin-top: 64px;
+    margin-top: 64px;
 }
 
 a[href="https://ctco.lv/careers/vacancies/"] {
-  color: #f78da7;
+    color: #f78da7;
+}
+
+.is-hidden {
+    display: none;
 }
